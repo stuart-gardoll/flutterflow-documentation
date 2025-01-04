@@ -150,12 +150,13 @@ While tools like ChatGPT can assist in drafting content, they often generate gen
 
 #### 2.9 High-Quality Images
 
-- **Criteria:** Images should be visually appealing, high-resolution, and representative of the project's design and functionality. Cover images should be at least 1200 x 800 pixels and in 1.5 aspect ratio.
+- **Criteria:** Images should be visually appealing, high-resolution, and representative of the project's design and functionality. Cover images should be at least 1200 x 800 pixels and in 1.5 aspect ratio. GIFs are allowed but should not be distracting and be highly optimized.
 - **Why it Matters:** Images are the first thing users see – make a great visual impression!
 - **What To Do:**
     - **Showcase key screens and features:** Select images that highlight the most visually impressive and important aspects of your project.
     - **Use high-resolution images:** Avoid blurry or pixelated images.
     - **Maintain a consistent style:** Use similar image dimensions and visual treatments to create a cohesive look.
+    - **GIF Usage:** GIFs should not be distracting, must focus solely on the use and/or usability of the template, and be highly optimized to ensure a smooth load on the platform.
 
 :::tip
 Use FlutterFlow's [**screenshot generator**](../../testing-deployment-publishing/publishing/pre-checks-publishing.md#generate-screenshots) along with services like [**Shots.so**](https://shots.so/) to create beautiful cover images.
@@ -168,6 +169,7 @@ Use FlutterFlow's [**screenshot generator**](../../testing-deployment-publishing
 - **What To Do:**
     - **Use genuine screenshots or recordings:** Avoid showcasing designs or features that are not actually present in your project.
     - **Use abstract images sparingly:** While a certain level of abstraction or illustration can be effective for concepts that are hard to capture with screenshots, they should be used judiciously. Prefer to showcase actual product screenshots in your gallery images.
+    - **GIF Usage:** Any GIFs must focus solely on the use and/or usability of the template.
 
 #### 2.11 No FlutterFlow Logo in Images
 
